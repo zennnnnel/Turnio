@@ -1,0 +1,16 @@
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\bin\Debug\Turnio.exe.config
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\bin\Debug\Turnio.exe
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\bin\Debug\Turnio.pdb
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.csproj.AssemblyReference.cache
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.Form1.resources
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.Properties.Resources.resources
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.csproj.GenerateResource.cache
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.csproj.CoreCompileInputs.cache
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.exe
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.pdb
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.exe.config
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.Form2.resources
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.Form3.resources
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.Form4.resources
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.Form5.resources
+C:\Users\Zennel\OneDrive\Documents\Github\Turnio\Turnio\obj\Debug\Turnio.Form6.resources
